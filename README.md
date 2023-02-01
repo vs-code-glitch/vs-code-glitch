@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=740&t=st=1675276592~exp=1675277192~hmac=e58775e6b296427d38e9ed6495cc42b4c263e4108611aa07f9e03acba266884f" />
+</p>
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">A passionate mern developer from India</h3>
 
