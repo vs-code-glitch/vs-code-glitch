@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">A passionate mern developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vs-code-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="vs-code-glitch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vs-code-glitch" alt="vs-code-glitch" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47lelpz8o3jt12hmmyf0lmpmh1ogz11yuwz7dxd2r4&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Spring Boot**
 
